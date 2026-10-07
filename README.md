@@ -1,1 +1,1 @@
-# PlumeEjectaModel
+# Plume Ejecta Model
